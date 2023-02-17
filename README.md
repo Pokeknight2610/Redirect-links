@@ -1,2 +1,2 @@
 # Redirect-links
-google.com rocketbotrayale.winterpixel.io
+https://google.com https://rocketbotrayale.winterpixel.io
